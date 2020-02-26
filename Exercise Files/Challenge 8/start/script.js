@@ -8,7 +8,7 @@ Create new function and use it as default parameter.
 
 "use strict";
 
-function square(a) {
+function square(...a) {
   console.log(a * a);
 }
 
