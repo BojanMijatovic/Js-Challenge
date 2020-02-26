@@ -1,4 +1,4 @@
-/* CHALLANGE 2 - Const
+/* challenge's 2 - Const
 Answer following Qustions:
   1. Why no error is generated after the line 14?
   2. Why after the line 19 TypeError is generated?
@@ -9,7 +9,7 @@ Don't change lines 14, 19.
 
 "use strict";
 
-const arr = [1, 2];
+let arr = [1, 2];
 
 arr.push(3);
 
