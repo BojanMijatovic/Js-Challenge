@@ -20,3 +20,4 @@ console.log(sum(10, 20, 5));
 
 console.log(sum(2, 5, 80, 1, 10, 12));
 //110
+
