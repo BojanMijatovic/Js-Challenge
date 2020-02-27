@@ -13,6 +13,10 @@ var obj = {
 };
 
 // Write mult() function here
+const multiply = (ter) => {
+  const { x, y, z } = ter;
+  return x * y * z;
+}
 
-console.log(mult(obj));
+console.log(multiply(obj));
 // 300
